@@ -178,7 +178,7 @@ section#contact:hover ~ .menu-items[href='#contact'] {
 }
 
 .landing {
-	background-image: url(../images/Background.jpg);
+	background-image: url(../images/IMG2.png);
 	background-size: cover;
 	background-position: center;
 	width: 100%;
@@ -454,7 +454,7 @@ img {
 	font-size: 0.9rem !important;
 }
 .parallex {
-	background-image: url(../images/p.jpg);
+	background-image: url(../images/IMG2\ \(1\).png);
 	background-size: cover;
 	background-position: fixed;
 	width: 100%;
